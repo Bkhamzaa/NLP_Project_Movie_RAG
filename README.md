@@ -37,4 +37,4 @@ Assurez-vous qu'Ollama tourne, puis téléchargez un modèle léger pour le test
 - ollama serve
 
 ***Lancez l'application Streamlit dans un autre terminal :
-- streamlit run app.py
+- python -m streamlit run app.py
